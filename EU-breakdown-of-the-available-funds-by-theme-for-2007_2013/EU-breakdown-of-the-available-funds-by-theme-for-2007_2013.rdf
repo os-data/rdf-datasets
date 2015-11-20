@@ -1,0 +1,3189 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:socrata="http://www.socrata.com/rdf/terms#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:ods="http://open-data-standards.github.com/2012/01/open-data-standards#" xmlns:dcterm="http://purl.org/dc/terms/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dsbase="http://cohesiondata.ec.europa.eu/resource/" xmlns:ds="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/">
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/1">
+    <socrata:rowID>1</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Austria</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>355800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>29.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/2">
+    <socrata:rowID>2</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Belgium</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>299000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>14.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/3">
+    <socrata:rowID>3</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Bulgaria </ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>293100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/4">
+    <socrata:rowID>4</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Cyprus</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>36700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>6</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/5">
+    <socrata:rowID>5</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Czech Republic</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>3971700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>15</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/6">
+    <socrata:rowID>6</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Germany</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>4936000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>19.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/7">
+    <socrata:rowID>7</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Denmark</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>158700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>31.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/8">
+    <socrata:rowID>8</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Estonia</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>681300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/9">
+    <socrata:rowID>9</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Greece</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2437100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>12.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/10">
+    <socrata:rowID>10</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Spain</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>5559200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>16</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/11">
+    <socrata:rowID>11</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Finland</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>468200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>29.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/12">
+    <socrata:rowID>12</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>France</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2213700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>16.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/13">
+    <socrata:rowID>13</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Croatia</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>120400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>14</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/14">
+    <socrata:rowID>14</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Hungary</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2125900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>8.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/15">
+    <socrata:rowID>15</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Ireland </ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>155200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>20.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/16">
+    <socrata:rowID>16</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Italy</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>6065500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>21.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/17">
+    <socrata:rowID>17</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Lithuania</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>992400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>14.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/18">
+    <socrata:rowID>18</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Luxembourg</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>18000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>35.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/19">
+    <socrata:rowID>19</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Latvia</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>752800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>16.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/20">
+    <socrata:rowID>20</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Malta</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>76200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>9.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/21">
+    <socrata:rowID>21</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Netherlands</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>299600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>18</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/22">
+    <socrata:rowID>22</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Poland</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>9303600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>13.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/23">
+    <socrata:rowID>23</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Portugal</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>4505100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>21</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/24">
+    <socrata:rowID>24</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Romania</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1127800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/25">
+    <socrata:rowID>25</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Sweden</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>404600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>24.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/26">
+    <socrata:rowID>26</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovenia</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1012600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>24.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/27">
+    <socrata:rowID>27</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovakia</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1299900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>11.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/28">
+    <socrata:rowID>28</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>United Kingdom</ds:ms>
+    <ds:thcode>11</ds:thcode>
+    <ds:theme>A. Innovation &amp; RTD</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1913600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>19.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/29">
+    <socrata:rowID>29</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Austria</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>19600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/30">
+    <socrata:rowID>30</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Belgium</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>24900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/31">
+    <socrata:rowID>31</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Bulgaria </ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>63200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/32">
+    <socrata:rowID>32</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Cyprus</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>17600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/33">
+    <socrata:rowID>33</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Czech Republic</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>869100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/34">
+    <socrata:rowID>34</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Germany</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>392800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/35">
+    <socrata:rowID>35</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Denmark</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>33100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>6.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/36">
+    <socrata:rowID>36</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Estonia</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>74800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/37">
+    <socrata:rowID>37</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Greece</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1260000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>6.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/38">
+    <socrata:rowID>38</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Spain</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1307900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/39">
+    <socrata:rowID>39</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Finland</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>143500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>9</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/40">
+    <socrata:rowID>40</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>France</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>651700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/41">
+    <socrata:rowID>41</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Croatia</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>8100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/42">
+    <socrata:rowID>42</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Hungary</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>686000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/43">
+    <socrata:rowID>43</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Ireland </ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>34000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/44">
+    <socrata:rowID>44</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Italy</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1674000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>6</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/45">
+    <socrata:rowID>45</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Lithuania</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>240100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/46">
+    <socrata:rowID>46</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Luxembourg</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/47">
+    <socrata:rowID>47</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Latvia</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>189400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/48">
+    <socrata:rowID>48</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Malta</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>28000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/49">
+    <socrata:rowID>49</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Netherlands</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>63000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/50">
+    <socrata:rowID>50</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Poland</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>3630300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/51">
+    <socrata:rowID>51</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Portugal</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>536600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/52">
+    <socrata:rowID>52</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Romania</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>450300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/53">
+    <socrata:rowID>53</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Sweden</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>102400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>6.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/54">
+    <socrata:rowID>54</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovenia</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>156200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/55">
+    <socrata:rowID>55</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovakia</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1007800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>8.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/56">
+    <socrata:rowID>56</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>United Kingdom</ds:ms>
+    <ds:thcode>12</ds:thcode>
+    <ds:theme>B. IT services and infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>478700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/57">
+    <socrata:rowID>57</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Austria</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>177600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>14.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/58">
+    <socrata:rowID>58</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Belgium</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>331800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>16.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/59">
+    <socrata:rowID>59</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Bulgaria </ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>512700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>7.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/60">
+    <socrata:rowID>60</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Cyprus</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>72300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>11.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/61">
+    <socrata:rowID>61</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Czech Republic</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>836600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/62">
+    <socrata:rowID>62</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Germany</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>4303500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>16.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/63">
+    <socrata:rowID>63</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Denmark</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>28800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/64">
+    <socrata:rowID>64</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Estonia</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>114400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/65">
+    <socrata:rowID>65</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Greece</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>969400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/66">
+    <socrata:rowID>66</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Spain</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2637600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>7.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/67">
+    <socrata:rowID>67</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Finland</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>182900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>11.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/68">
+    <socrata:rowID>68</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>France</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>830100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>6.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/69">
+    <socrata:rowID>69</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Croatia</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>15400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/70">
+    <socrata:rowID>70</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Hungary</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2411500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>9.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/71">
+    <socrata:rowID>71</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Ireland </ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>40000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/72">
+    <socrata:rowID>72</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Italy</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1442700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/73">
+    <socrata:rowID>73</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Lithuania</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>241900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/74">
+    <socrata:rowID>74</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Luxembourg</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/75">
+    <socrata:rowID>75</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Latvia</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>91100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/76">
+    <socrata:rowID>76</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Malta</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>19200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/77">
+    <socrata:rowID>77</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Netherlands</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>69900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/78">
+    <socrata:rowID>78</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Poland</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>3569000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/79">
+    <socrata:rowID>79</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Portugal</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1463800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>6.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/80">
+    <socrata:rowID>80</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Romania</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1197000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>6.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/81">
+    <socrata:rowID>81</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Sweden</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>191300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>11.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/82">
+    <socrata:rowID>82</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovenia</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>151400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/83">
+    <socrata:rowID>83</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovakia</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>255500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/84">
+    <socrata:rowID>84</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>United Kingdom</ds:ms>
+    <ds:thcode>13</ds:thcode>
+    <ds:theme>C. Other SME and Business support</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1092800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>11</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/85">
+    <socrata:rowID>85</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Austria</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>32900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/86">
+    <socrata:rowID>86</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Belgium</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>30800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/87">
+    <socrata:rowID>87</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Bulgaria </ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>317800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/88">
+    <socrata:rowID>88</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Cyprus</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>9500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/89">
+    <socrata:rowID>89</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Czech Republic</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1360600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/90">
+    <socrata:rowID>90</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Germany</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>618200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/91">
+    <socrata:rowID>91</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Estonia</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>28800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/92">
+    <socrata:rowID>92</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Greece</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>757300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/93">
+    <socrata:rowID>93</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Spain</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>417700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/94">
+    <socrata:rowID>94</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Finland</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>44900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/95">
+    <socrata:rowID>95</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>France</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>673900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/96">
+    <socrata:rowID>96</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Hungary</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>677800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/97">
+    <socrata:rowID>97</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Ireland </ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>15500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/98">
+    <socrata:rowID>98</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Italy</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1863200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>6.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/99">
+    <socrata:rowID>99</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Lithuania</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>503000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>7.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/100">
+    <socrata:rowID>100</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Luxembourg</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/101">
+    <socrata:rowID>101</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Latvia</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>127400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/102">
+    <socrata:rowID>102</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Malta</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>90900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>10.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/103">
+    <socrata:rowID>103</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Netherlands</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>63400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/104">
+    <socrata:rowID>104</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Poland</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2334800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/105">
+    <socrata:rowID>105</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Portugal</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>141100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/106">
+    <socrata:rowID>106</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Romania</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>683700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/107">
+    <socrata:rowID>107</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Sweden</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>61500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/108">
+    <socrata:rowID>108</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovenia</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>159900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/109">
+    <socrata:rowID>109</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovakia</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>168800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/110">
+    <socrata:rowID>110</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>United Kingdom</ds:ms>
+    <ds:thcode>14</ds:thcode>
+    <ds:theme>D. Energy</ds:theme>
+    <ds:decided_ops_a_in_m_2013>349700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/111">
+    <socrata:rowID>111</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Austria</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>11700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/112">
+    <socrata:rowID>112</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Belgium</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>93600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/113">
+    <socrata:rowID>113</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Bulgaria </ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1441000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>21.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/114">
+    <socrata:rowID>114</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Cyprus</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>156100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>25.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/115">
+    <socrata:rowID>115</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Czech Republic</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>4054600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>15.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/116">
+    <socrata:rowID>116</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Germany</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1399500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/117">
+    <socrata:rowID>117</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Denmark</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>12300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/118">
+    <socrata:rowID>118</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Estonia</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>767700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>22.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/119">
+    <socrata:rowID>119</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Greece</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2417600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>12</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/120">
+    <socrata:rowID>120</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Spain</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>6005900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>17.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/121">
+    <socrata:rowID>121</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Finland</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>45300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/122">
+    <socrata:rowID>122</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>France</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1142200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>8.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/123">
+    <socrata:rowID>123</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Croatia</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>273000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>31.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/124">
+    <socrata:rowID>124</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Hungary</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>4567600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>18.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/125">
+    <socrata:rowID>125</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Ireland </ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>20500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/126">
+    <socrata:rowID>126</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Italy</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2354000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>8.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/127">
+    <socrata:rowID>127</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Lithuania</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>971200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>14.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/128">
+    <socrata:rowID>128</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Luxembourg</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>3800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>7.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/129">
+    <socrata:rowID>129</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Latvia</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>792700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>17.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/130">
+    <socrata:rowID>130</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Malta</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>178600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>21.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/131">
+    <socrata:rowID>131</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Netherlands</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>61600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/132">
+    <socrata:rowID>132</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Poland</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>6753700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>10.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/133">
+    <socrata:rowID>133</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Portugal</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2422500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>11.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/134">
+    <socrata:rowID>134</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Romania</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>4633400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>24.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/135">
+    <socrata:rowID>135</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Sweden</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>15900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/136">
+    <socrata:rowID>136</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovenia</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>800600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>19.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/137">
+    <socrata:rowID>137</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovakia</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1852800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>16.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/138">
+    <socrata:rowID>138</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>United Kingdom</ds:ms>
+    <ds:thcode>15</ds:thcode>
+    <ds:theme>E. Environment</ds:theme>
+    <ds:decided_ops_a_in_m_2013>372000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/139">
+    <socrata:rowID>139</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Austria</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>23000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/140">
+    <socrata:rowID>140</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Belgium</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>38600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/141">
+    <socrata:rowID>141</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Bulgaria </ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>104200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/142">
+    <socrata:rowID>142</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Cyprus</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>11900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/143">
+    <socrata:rowID>143</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Czech Republic</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1230300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/144">
+    <socrata:rowID>144</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Germany</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>521500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/145">
+    <socrata:rowID>145</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Denmark</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>12300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/146">
+    <socrata:rowID>146</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Estonia</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>149100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/147">
+    <socrata:rowID>147</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Greece</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>631400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/148">
+    <socrata:rowID>148</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Spain</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>583300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/149">
+    <socrata:rowID>149</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Finland</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>66600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/150">
+    <socrata:rowID>150</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>France</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>285100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/151">
+    <socrata:rowID>151</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Croatia</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>30200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/152">
+    <socrata:rowID>152</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Hungary</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>717700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/153">
+    <socrata:rowID>153</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Ireland </ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/154">
+    <socrata:rowID>154</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Italy</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1189300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/155">
+    <socrata:rowID>155</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Lithuania</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>184900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/156">
+    <socrata:rowID>156</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Latvia</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>84700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/157">
+    <socrata:rowID>157</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Malta</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>99600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>11.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/158">
+    <socrata:rowID>158</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Netherlands</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>41200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/159">
+    <socrata:rowID>159</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Poland</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1998200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/160">
+    <socrata:rowID>160</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Portugal</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>426900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/161">
+    <socrata:rowID>161</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Romania</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>464100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/162">
+    <socrata:rowID>162</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Sweden</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>31000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/163">
+    <socrata:rowID>163</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovenia</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>113800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/164">
+    <socrata:rowID>164</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovakia</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>338400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/165">
+    <socrata:rowID>165</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>United Kingdom</ds:ms>
+    <ds:thcode>16</ds:thcode>
+    <ds:theme>F. Culture, heritage and tourism</ds:theme>
+    <ds:decided_ops_a_in_m_2013>69400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/166">
+    <socrata:rowID>166</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Belgium</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>14200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/167">
+    <socrata:rowID>167</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Bulgaria </ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1012100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>15.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/168">
+    <socrata:rowID>168</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Cyprus</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>33200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/169">
+    <socrata:rowID>169</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Czech Republic</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>3901400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>14.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/170">
+    <socrata:rowID>170</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Germany</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1976400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>7.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/171">
+    <socrata:rowID>171</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Estonia</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>290400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>8.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/172">
+    <socrata:rowID>172</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Greece</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>3380800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>16.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/173">
+    <socrata:rowID>173</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Spain</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2183100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>6.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/174">
+    <socrata:rowID>174</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Finland</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>14100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/175">
+    <socrata:rowID>175</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>France</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>158400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/176">
+    <socrata:rowID>176</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Hungary</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>3140100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>12.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/177">
+    <socrata:rowID>177</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Ireland </ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>63500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>8.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/178">
+    <socrata:rowID>178</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Italy</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>818300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/179">
+    <socrata:rowID>179</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Lithuania</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>681300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>10.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/180">
+    <socrata:rowID>180</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Latvia</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>483000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>10.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/181">
+    <socrata:rowID>181</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Malta</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>106100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>12.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/182">
+    <socrata:rowID>182</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Netherlands</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>5200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/183">
+    <socrata:rowID>183</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Poland</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>15744900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>23.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/184">
+    <socrata:rowID>184</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Portugal</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>802600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/185">
+    <socrata:rowID>185</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Romania</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>3165600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>16.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/186">
+    <socrata:rowID>186</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Sweden</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>8800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/187">
+    <socrata:rowID>187</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovenia</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>408100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/188">
+    <socrata:rowID>188</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovakia</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1936100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>16.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/189">
+    <socrata:rowID>189</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>United Kingdom</ds:ms>
+    <ds:thcode>19</ds:thcode>
+    <ds:theme>G1. Road</ds:theme>
+    <ds:decided_ops_a_in_m_2013>131600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/190">
+    <socrata:rowID>190</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Bulgaria </ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>312000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/191">
+    <socrata:rowID>191</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Czech Republic</ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2757700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>10.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/192">
+    <socrata:rowID>192</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Germany</ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>769500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/193">
+    <socrata:rowID>193</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Estonia</ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>185300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/194">
+    <socrata:rowID>194</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Greece</ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>761900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/195">
+    <socrata:rowID>195</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Spain</ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>4045400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>11.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/196">
+    <socrata:rowID>196</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Finland</ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>10200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/197">
+    <socrata:rowID>197</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>France</ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>203100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/198">
+    <socrata:rowID>198</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Croatia</ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>221600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>25.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/199">
+    <socrata:rowID>199</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Hungary</ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1720100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>6.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/200">
+    <socrata:rowID>200</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Ireland </ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>16800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/201">
+    <socrata:rowID>201</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Italy</ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2276000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>8.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/202">
+    <socrata:rowID>202</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Lithuania</ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>580400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>8.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/203">
+    <socrata:rowID>203</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Latvia</ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>256300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/204">
+    <socrata:rowID>204</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Netherlands</ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/205">
+    <socrata:rowID>205</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Poland</ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>5557500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>8.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/206">
+    <socrata:rowID>206</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Portugal</ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>363200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/207">
+    <socrata:rowID>207</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Romania</ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1784400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>9.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/208">
+    <socrata:rowID>208</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Sweden</ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>11600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/209">
+    <socrata:rowID>209</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovenia</ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>449600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>11</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/210">
+    <socrata:rowID>210</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovakia</ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1093100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>9.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/211">
+    <socrata:rowID>211</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>United Kingdom</ds:ms>
+    <ds:thcode>18</ds:thcode>
+    <ds:theme>G2. Rail</ds:theme>
+    <ds:decided_ops_a_in_m_2013>86900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/212">
+    <socrata:rowID>212</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Austria</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>6000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/213">
+    <socrata:rowID>213</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Belgium</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>45500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/214">
+    <socrata:rowID>214</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Bulgaria </ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>691400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>10.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/215">
+    <socrata:rowID>215</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Cyprus</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>47600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>7.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/216">
+    <socrata:rowID>216</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Czech Republic</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1024900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/217">
+    <socrata:rowID>217</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Germany</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>314400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/218">
+    <socrata:rowID>218</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Estonia</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>216100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>6.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/219">
+    <socrata:rowID>219</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Greece</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1387800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>6.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/220">
+    <socrata:rowID>220</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Spain</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1653500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/221">
+    <socrata:rowID>221</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Finland</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>14500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/222">
+    <socrata:rowID>222</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>France</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>710900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/223">
+    <socrata:rowID>223</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Croatia</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>7900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/224">
+    <socrata:rowID>224</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Hungary</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1681800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>6.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/225">
+    <socrata:rowID>225</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Ireland </ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>3600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/226">
+    <socrata:rowID>226</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Italy</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1433700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/227">
+    <socrata:rowID>227</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Lithuania</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>308700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/228">
+    <socrata:rowID>228</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Latvia</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>401500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>8.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/229">
+    <socrata:rowID>229</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Malta</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>50600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>6</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/230">
+    <socrata:rowID>230</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Netherlands</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>41400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/231">
+    <socrata:rowID>231</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Poland</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>4136000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>6.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/232">
+    <socrata:rowID>232</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Portugal</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>523500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/233">
+    <socrata:rowID>233</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Romania</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>393500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/234">
+    <socrata:rowID>234</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Sweden</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>56100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/235">
+    <socrata:rowID>235</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovenia</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>94700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/236">
+    <socrata:rowID>236</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovakia</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>350900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/237">
+    <socrata:rowID>237</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>United Kingdom</ds:ms>
+    <ds:thcode>20</ds:thcode>
+    <ds:theme>G3. Other transport</ds:theme>
+    <ds:decided_ops_a_in_m_2013>272500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/238">
+    <socrata:rowID>238</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Austria</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>21300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/239">
+    <socrata:rowID>239</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Belgium</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>147900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>7.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/240">
+    <socrata:rowID>240</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Bulgaria </ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>153300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/241">
+    <socrata:rowID>241</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Cyprus</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>78700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>12.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/242">
+    <socrata:rowID>242</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Czech Republic</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>972100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/243">
+    <socrata:rowID>243</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Germany</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>966800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/244">
+    <socrata:rowID>244</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Estonia</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>15200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/245">
+    <socrata:rowID>245</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Greece</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>513900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/246">
+    <socrata:rowID>246</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Spain</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1409400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/247">
+    <socrata:rowID>247</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Finland</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/248">
+    <socrata:rowID>248</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>France</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>679300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/249">
+    <socrata:rowID>249</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Hungary</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>676400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/250">
+    <socrata:rowID>250</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Ireland </ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>22400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/251">
+    <socrata:rowID>251</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Italy</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>993300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/252">
+    <socrata:rowID>252</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Lithuania</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>252100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/253">
+    <socrata:rowID>253</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Luxembourg</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/254">
+    <socrata:rowID>254</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Latvia</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>263000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/255">
+    <socrata:rowID>255</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Malta</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>6400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/256">
+    <socrata:rowID>256</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Netherlands</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>110500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>6.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/257">
+    <socrata:rowID>257</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Poland</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1020800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/258">
+    <socrata:rowID>258</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Portugal</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>956100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/259">
+    <socrata:rowID>259</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Romania</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>894200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/260">
+    <socrata:rowID>260</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Sweden</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>14000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/261">
+    <socrata:rowID>261</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovenia</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>57400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/262">
+    <socrata:rowID>262</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovakia</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>353300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/263">
+    <socrata:rowID>263</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>United Kingdom</ds:ms>
+    <ds:thcode>17</ds:thcode>
+    <ds:theme>H1. Urban and territorial dimension</ds:theme>
+    <ds:decided_ops_a_in_m_2013>430700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/264">
+    <socrata:rowID>264</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Austria</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>132700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>11</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/265">
+    <socrata:rowID>265</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Belgium</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>298900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>14.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/266">
+    <socrata:rowID>266</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Bulgaria </ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>37400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/267">
+    <socrata:rowID>267</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Cyprus</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>13700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/268">
+    <socrata:rowID>268</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Czech Republic</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>458200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/269">
+    <socrata:rowID>269</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Germany</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2615100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>10.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/270">
+    <socrata:rowID>270</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Estonia</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>3200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/271">
+    <socrata:rowID>271</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Greece</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>495500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/272">
+    <socrata:rowID>272</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Spain</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>748000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/273">
+    <socrata:rowID>273</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Finland</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>114800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>7.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/274">
+    <socrata:rowID>274</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>France</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1772100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>13.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/275">
+    <socrata:rowID>275</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Croatia</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>29000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/276">
+    <socrata:rowID>276</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Hungary</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>336000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/277">
+    <socrata:rowID>277</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Ireland </ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>17900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/278">
+    <socrata:rowID>278</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Italy</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>637200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/279">
+    <socrata:rowID>279</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Lithuania</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>64000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/280">
+    <socrata:rowID>280</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Luxembourg</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/281">
+    <socrata:rowID>281</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Latvia</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>48000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/282">
+    <socrata:rowID>282</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Malta</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>19500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/283">
+    <socrata:rowID>283</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Netherlands</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>143800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>8.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/284">
+    <socrata:rowID>284</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Poland</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1160400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/285">
+    <socrata:rowID>285</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Portugal</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>446900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/286">
+    <socrata:rowID>286</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Romania</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>433100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/287">
+    <socrata:rowID>287</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Sweden</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>23700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/288">
+    <socrata:rowID>288</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovenia</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>44700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/289">
+    <socrata:rowID>289</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovakia</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>173100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/290">
+    <socrata:rowID>290</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>United Kingdom</ds:ms>
+    <ds:thcode>22</ds:thcode>
+    <ds:theme>H2. Social Inclusion</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1148200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>11.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/291">
+    <socrata:rowID>291</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Austria</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/292">
+    <socrata:rowID>292</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Belgium</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/293">
+    <socrata:rowID>293</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Bulgaria </ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>318300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/294">
+    <socrata:rowID>294</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Cyprus</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>10500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/295">
+    <socrata:rowID>295</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Czech Republic</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1232800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/296">
+    <socrata:rowID>296</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Germany</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>486600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>1.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/297">
+    <socrata:rowID>297</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Estonia</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>517900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>15.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/298">
+    <socrata:rowID>298</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Greece</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1116700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/299">
+    <socrata:rowID>299</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Spain</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1044000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/300">
+    <socrata:rowID>300</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Finland</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/301">
+    <socrata:rowID>301</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>France</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>289600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/302">
+    <socrata:rowID>302</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Croatia</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/303">
+    <socrata:rowID>303</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Hungary</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2422500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>9.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/304">
+    <socrata:rowID>304</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Italy</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1097000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/305">
+    <socrata:rowID>305</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Lithuania</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>845700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>12.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/306">
+    <socrata:rowID>306</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Latvia</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>526100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>11.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/307">
+    <socrata:rowID>307</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Malta</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>72600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>8.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/308">
+    <socrata:rowID>308</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Netherlands</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>14500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/309">
+    <socrata:rowID>309</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Poland</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2698700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/310">
+    <socrata:rowID>310</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Portugal</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2954200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>13.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/311">
+    <socrata:rowID>311</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Romania</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>505500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/312">
+    <socrata:rowID>312</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Sweden</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/313">
+    <socrata:rowID>313</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovenia</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>112700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/314">
+    <socrata:rowID>314</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovakia</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1175700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>10.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/315">
+    <socrata:rowID>315</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>United Kingdom</ds:ms>
+    <ds:thcode>23</ds:thcode>
+    <ds:theme>H3. Social infrastructure</ds:theme>
+    <ds:decided_ops_a_in_m_2013>37800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/316">
+    <socrata:rowID>316</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Austria</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>203700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>16.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/317">
+    <socrata:rowID>317</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Belgium</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>433000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>21</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/318">
+    <socrata:rowID>318</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Bulgaria </ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>385300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/319">
+    <socrata:rowID>319</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Cyprus</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>26800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/320">
+    <socrata:rowID>320</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Czech Republic</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>842500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/321">
+    <socrata:rowID>321</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Germany</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1977300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>7.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/322">
+    <socrata:rowID>322</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Denmark</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>104400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>20.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/323">
+    <socrata:rowID>323</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Estonia</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>147900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/324">
+    <socrata:rowID>324</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Greece</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1717100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>8.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/325">
+    <socrata:rowID>325</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Spain</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>4970900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>14.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/326">
+    <socrata:rowID>326</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Finland</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>286800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>18</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/327">
+    <socrata:rowID>327</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>France</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1943500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>14.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/328">
+    <socrata:rowID>328</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Croatia</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>31100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/329">
+    <socrata:rowID>329</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Hungary</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>882400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/330">
+    <socrata:rowID>330</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Ireland </ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>195100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>26</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/331">
+    <socrata:rowID>331</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Italy</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2186800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>7.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/332">
+    <socrata:rowID>332</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Lithuania</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>216100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/333">
+    <socrata:rowID>333</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Luxembourg</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>13900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>27.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/334">
+    <socrata:rowID>334</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Latvia</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>236000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/335">
+    <socrata:rowID>335</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Malta</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>18500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/336">
+    <socrata:rowID>336</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Netherlands</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>246000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>14.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/337">
+    <socrata:rowID>337</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Poland</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2906100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/338">
+    <socrata:rowID>338</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Portugal</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>665800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/339">
+    <socrata:rowID>339</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Romania</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>971300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/340">
+    <socrata:rowID>340</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Sweden</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>518200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>31.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/341">
+    <socrata:rowID>341</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovenia</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>192800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/342">
+    <socrata:rowID>342</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovakia</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>615400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/343">
+    <socrata:rowID>343</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>United Kingdom</ds:ms>
+    <ds:thcode>21</ds:thcode>
+    <ds:theme>I. Labour market</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1581400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>16</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/344">
+    <socrata:rowID>344</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Austria</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>166700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>13.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/345">
+    <socrata:rowID>345</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Belgium</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>250300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>12.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/346">
+    <socrata:rowID>346</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Bulgaria </ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>438800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>6.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/347">
+    <socrata:rowID>347</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Cyprus</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>66600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>10.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/348">
+    <socrata:rowID>348</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Czech Republic</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1885600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>7.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/349">
+    <socrata:rowID>349</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Germany</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>3476400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>13.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/350">
+    <socrata:rowID>350</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Denmark</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>140600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>27.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/351">
+    <socrata:rowID>351</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Estonia</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>121800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/352">
+    <socrata:rowID>352</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Greece</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1687800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>8.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/353">
+    <socrata:rowID>353</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Spain</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1348200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/354">
+    <socrata:rowID>354</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Finland</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>134500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>8.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/355">
+    <socrata:rowID>355</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>France</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1374400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>10.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/356">
+    <socrata:rowID>356</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Croatia</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>54600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>6.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/357">
+    <socrata:rowID>357</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Hungary</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1751700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>7</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/358">
+    <socrata:rowID>358</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Ireland </ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>158700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>21.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/359">
+    <socrata:rowID>359</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Italy</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2794400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/360">
+    <socrata:rowID>360</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Lithuania</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>370700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/361">
+    <socrata:rowID>361</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Luxembourg</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>5700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>11.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/362">
+    <socrata:rowID>362</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Latvia</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>140400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/363">
+    <socrata:rowID>363</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Malta</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>48000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/364">
+    <socrata:rowID>364</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Netherlands</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>429900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>25.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/365">
+    <socrata:rowID>365</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Poland</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>3772100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/366">
+    <socrata:rowID>366</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Portugal</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>4579300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>21.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/367">
+    <socrata:rowID>367</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Romania</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1577400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>8.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/368">
+    <socrata:rowID>368</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Sweden</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>121900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>7.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/369">
+    <socrata:rowID>369</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovenia</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>228500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/370">
+    <socrata:rowID>370</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovakia</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>450600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/371">
+    <socrata:rowID>371</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>United Kingdom</ds:ms>
+    <ds:thcode>24</ds:thcode>
+    <ds:theme>J. Human capital</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1608600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>16.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/372">
+    <socrata:rowID>372</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Austria</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>53100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.40</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/373">
+    <socrata:rowID>373</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Belgium</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>53200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/374">
+    <socrata:rowID>374</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Bulgaria </ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>593200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>8.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/375">
+    <socrata:rowID>375</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Cyprus</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>31200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>5.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/376">
+    <socrata:rowID>376</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Czech Republic</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1141500000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/377">
+    <socrata:rowID>377</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Germany</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>734100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/378">
+    <socrata:rowID>378</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Denmark</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>19400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/379">
+    <socrata:rowID>379</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Estonia</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>89600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.60</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/380">
+    <socrata:rowID>380</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Greece</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>675800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.30</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/381">
+    <socrata:rowID>381</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Spain</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>736600000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/382">
+    <socrata:rowID>382</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Finland</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>67300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/383">
+    <socrata:rowID>383</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>France</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>521300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/384">
+    <socrata:rowID>384</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Croatia</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>65900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>7.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/385">
+    <socrata:rowID>385</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Hungary</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1123400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.50</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/386">
+    <socrata:rowID>386</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Ireland </ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>7100000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>0.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/387">
+    <socrata:rowID>387</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Italy</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>1130300000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/388">
+    <socrata:rowID>388</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Lithuania</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>323200000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/389">
+    <socrata:rowID>389</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Luxembourg</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/390">
+    <socrata:rowID>390</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Latvia</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>137900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/391">
+    <socrata:rowID>391</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Malta</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>26000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.10</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/392">
+    <socrata:rowID>392</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Netherlands</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>69700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.20</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/393">
+    <socrata:rowID>393</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Poland</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>2599400000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/394">
+    <socrata:rowID>394</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Portugal</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>623900000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/395">
+    <socrata:rowID>395</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Romania</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>931700000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4.80</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/396">
+    <socrata:rowID>396</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Sweden</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>65000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>4</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/397">
+    <socrata:rowID>397</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovenia</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>118000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>2.90</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/398">
+    <socrata:rowID>398</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>Slovakia</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>426800000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.70</ds:of_national_sf_cf></rdf:Description>
+<rdf:Description rdf:about="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh/399">
+    <socrata:rowID>399</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/drpe-zmfh"/>
+    <ds:ms>United Kingdom</ds:ms>
+    <ds:thcode>25</ds:thcode>
+    <ds:theme>K. TA &amp; Capacity Building</ds:theme>
+    <ds:decided_ops_a_in_m_2013>317000000</ds:decided_ops_a_in_m_2013>
+    <ds:of_national_sf_cf>3.20</ds:of_national_sf_cf></rdf:Description></rdf:RDF>

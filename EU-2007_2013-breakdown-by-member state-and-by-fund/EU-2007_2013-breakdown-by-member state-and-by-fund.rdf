@@ -1,0 +1,451 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:socrata="http://www.socrata.com/rdf/terms#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:ods="http://open-data-standards.github.com/2012/01/open-data-standards#" xmlns:dcterm="http://purl.org/dc/terms/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dsbase="http://cohesiondata.ec.europa.eu/resource/" xmlns:ds="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/">
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/1">
+    <socrata:rowID>1</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Belgium</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>989620728</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/2">
+    <socrata:rowID>2</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Belgium</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>1073217594</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/3">
+    <socrata:rowID>3</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Bulgaria</ds:country>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>2283036165</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/4">
+    <socrata:rowID>4</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Bulgaria</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>3205132216</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/5">
+    <socrata:rowID>5</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Bulgaria</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>1185459863</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/6">
+    <socrata:rowID>6</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Czech Republic</ds:country>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>8819022439</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/7">
+    <socrata:rowID>7</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Czech Republic</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>13932831854</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/8">
+    <socrata:rowID>8</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Czech Republic</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>3787795992</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/9">
+    <socrata:rowID>9</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Denmark</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>254788620</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/10">
+    <socrata:rowID>10</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Denmark</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>254788619</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/11">
+    <socrata:rowID>11</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Germany</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>16107313706</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/12">
+    <socrata:rowID>12</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Germany</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>9380654763</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/13">
+    <socrata:rowID>13</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Estonia</ds:country>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>1151731446</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/14">
+    <socrata:rowID>14</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Estonia</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>1860211106</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/15">
+    <socrata:rowID>15</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Estonia</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>391517329</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/16">
+    <socrata:rowID>16</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Ireland</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>375362372</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/17">
+    <socrata:rowID>17</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Ireland</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>375362370</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/18">
+    <socrata:rowID>18</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Greece</ds:country>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>3697160864</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/19">
+    <socrata:rowID>19</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Greece</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>12149300178</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/20">
+    <socrata:rowID>20</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Greece</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>4363800403</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/21">
+    <socrata:rowID>21</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Spain</ds:country>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>3543213008</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/22">
+    <socrata:rowID>22</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Spain</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>23052671624</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/23">
+    <socrata:rowID>23</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Spain</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>8073022222</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/24">
+    <socrata:rowID>24</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>France</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>8051760586</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/25">
+    <socrata:rowID>25</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>France</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>5494547990</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/26">
+    <socrata:rowID>26</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Croatia</ds:country>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>281099011</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/27">
+    <socrata:rowID>27</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Croatia</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>424762900</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/28">
+    <socrata:rowID>28</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Croatia</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>152413106</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/29">
+    <socrata:rowID>29</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Italy</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>20992070961</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/30">
+    <socrata:rowID>30</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Italy</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>6960542469</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/31">
+    <socrata:rowID>31</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Cyprus</ds:country>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>213204484</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/32">
+    <socrata:rowID>32</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Cyprus</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>279461354</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/33">
+    <socrata:rowID>33</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Cyprus</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>119769154</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/34">
+    <socrata:rowID>34</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Latvia</ds:country>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>1539776553</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/35">
+    <socrata:rowID>35</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Latvia</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>2407567364</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/36">
+    <socrata:rowID>36</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Latvia</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>583103717</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/37">
+    <socrata:rowID>37</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Lithuania</ds:country>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>2305235743</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/38">
+    <socrata:rowID>38</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Lithuania</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>3441950353</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/39">
+    <socrata:rowID>39</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Lithuania</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>1028306727</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/40">
+    <socrata:rowID>40</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Luxembourg</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>25243666</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/41">
+    <socrata:rowID>41</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Luxembourg</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>25243666</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/42">
+    <socrata:rowID>42</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Hungary</ds:country>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>8642316217</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/43">
+    <socrata:rowID>43</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Hungary</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>12638528106</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/44">
+    <socrata:rowID>44</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Hungary</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>3626879916</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/45">
+    <socrata:rowID>45</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Malta</ds:country>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>284145020</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/46">
+    <socrata:rowID>46</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Malta</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>443978031</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/47">
+    <socrata:rowID>47</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Malta</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>112000000</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/48">
+    <socrata:rowID>48</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Netherlands</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>830000000</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/49">
+    <socrata:rowID>49</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Netherlands</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>830002737</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/50">
+    <socrata:rowID>50</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Austria</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>680066021</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/51">
+    <socrata:rowID>51</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Austria</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>524412560</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/52">
+    <socrata:rowID>52</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Poland</ds:country>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>22387151159</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/53">
+    <socrata:rowID>53</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Poland</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>34791000148</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/54">
+    <socrata:rowID>54</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Poland</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>10007397937</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/55">
+    <socrata:rowID>55</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Portugal</ds:country>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>3059965525</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/56">
+    <socrata:rowID>56</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Portugal</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>11498207122</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/57">
+    <socrata:rowID>57</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Portugal</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>6853387865</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/58">
+    <socrata:rowID>58</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Romania</ds:country>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>6522216180</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/59">
+    <socrata:rowID>59</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Romania</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>8851294343</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/60">
+    <socrata:rowID>60</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Romania</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>3684147618</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/61">
+    <socrata:rowID>61</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Slovenia</ds:country>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>1411569858</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/62">
+    <socrata:rowID>62</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Slovenia</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>1933779408</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/63">
+    <socrata:rowID>63</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Slovenia</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>755699370</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/64">
+    <socrata:rowID>64</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Slovakia</ds:country>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>3898738563</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/65">
+    <socrata:rowID>65</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Slovakia</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>6099989765</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/66">
+    <socrata:rowID>66</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Slovakia</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>1497739439</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/67">
+    <socrata:rowID>67</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Finland</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>977401980</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/68">
+    <socrata:rowID>68</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Finland</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>618564064</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/69">
+    <socrata:rowID>69</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Sweden</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>934540730</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/70">
+    <socrata:rowID>70</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>Sweden</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>691551158</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/71">
+    <socrata:rowID>71</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>United Kingdom</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>5392019735</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/72">
+    <socrata:rowID>72</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>United Kingdom</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>4498917728</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/73">
+    <socrata:rowID>73</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>European Union</ds:country>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>70000000000</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/74">
+    <socrata:rowID>74</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>European Union</ds:country>
+    <ds:fund>European Regional Development Fund</ds:fund>
+    <ds:amount>201000000000</ds:amount></dsbase:t7df-itnc>
+<dsbase:t7df-itnc rdf:about="http://cohesiondata.ec.europa.eu/resource/t7df-itnc/75">
+    <socrata:rowID>75</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/t7df-itnc"/>
+    <ds:country>European Union</ds:country>
+    <ds:fund>European Social Fund</ds:fund>
+    <ds:amount>76000000000</ds:amount></dsbase:t7df-itnc></rdf:RDF>

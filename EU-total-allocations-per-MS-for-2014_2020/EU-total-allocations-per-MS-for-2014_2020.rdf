@@ -1,0 +1,12 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:socrata="http://www.socrata.com/rdf/terms#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:ods="http://open-data-standards.github.com/2012/01/open-data-standards#" xmlns:dcterm="http://purl.org/dc/terms/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dsbase="http://cohesiondata.ec.europa.eu/resource/" xmlns:ds="http://cohesiondata.ec.europa.eu/resource/uppt-dy4h/">
+<dsbase:uppt-dy4h rdf:about="http://cohesiondata.ec.europa.eu/resource/uppt-dy4h/3">
+    <socrata:rowID>3</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/uppt-dy4h"/>
+    <ds:country_id>Czech Republic</ds:country_id>
+    <ds:cohesion_fund>6258900000</ds:cohesion_fund>
+    <ds:less_developed_regions>15282500000</ds:less_developed_regions>
+    <ds:more_developed_regions>88200000</ds:more_developed_regions>
+    <ds:european_territorial_cooperation_cross_border_cooperation>296700000</ds:european_territorial_cooperation_cross_border_cooperation>
+    <ds:european_territorial_cooperation_transnational_cooperation>43000000</ds:european_territorial_cooperation_transnational_cooperation>
+    <ds:youth_employment_initiative_additional_allocation>13600000</ds:youth_employment_initiative_additional_allocation>
+    <ds:total>21982900000</ds:total></dsbase:uppt-dy4h></rdf:RDF>

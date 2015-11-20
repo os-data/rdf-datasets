@@ -1,0 +1,1627 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:socrata="http://www.socrata.com/rdf/terms#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:ods="http://open-data-standards.github.com/2012/01/open-data-standards#" xmlns:dcterm="http://purl.org/dc/terms/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dsbase="http://cohesiondata.ec.europa.eu/resource/" xmlns:ds="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/">
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/1">
+    <socrata:rowID>1</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Belgium</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/2">
+    <socrata:rowID>2</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Belgium</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/3">
+    <socrata:rowID>3</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Belgium</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund>
+    <ds:amount>1039700000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/4">
+    <socrata:rowID>4</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Belgium</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>938600000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/5">
+    <socrata:rowID>5</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Belgium</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/6">
+    <socrata:rowID>6</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Belgium</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>219000000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/7">
+    <socrata:rowID>7</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Belgium</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>44200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/8">
+    <socrata:rowID>8</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Belgium</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund>
+    <ds:amount>42400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/9">
+    <socrata:rowID>9</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Belgium</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>2283900000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/10">
+    <socrata:rowID>10</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Bulgaria</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>2278300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/11">
+    <socrata:rowID>11</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Bulgaria</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund>
+    <ds:amount>5089300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/12">
+    <socrata:rowID>12</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Bulgaria</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/13">
+    <socrata:rowID>13</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Bulgaria</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/14">
+    <socrata:rowID>14</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Bulgaria</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/15">
+    <socrata:rowID>15</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Bulgaria</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>134200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/16">
+    <socrata:rowID>16</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Bulgaria</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>31500000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/17">
+    <socrata:rowID>17</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Bulgaria</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund>
+    <ds:amount>55200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/18">
+    <socrata:rowID>18</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Bulgaria</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>7588400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/19">
+    <socrata:rowID>19</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Czech Republic</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>6258900000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/20">
+    <socrata:rowID>20</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Czech Republic</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund>
+    <ds:amount>15282500000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/21">
+    <socrata:rowID>21</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Czech Republic</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/22">
+    <socrata:rowID>22</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Czech Republic</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>88200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/23">
+    <socrata:rowID>23</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Czech Republic</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/24">
+    <socrata:rowID>24</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Czech Republic</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>296700000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/25">
+    <socrata:rowID>25</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Czech Republic</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>43000000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/26">
+    <socrata:rowID>26</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Czech Republic</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund>
+    <ds:amount>13600000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/27">
+    <socrata:rowID>27</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Czech Republic</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>21982900000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/28">
+    <socrata:rowID>28</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Denmark</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/29">
+    <socrata:rowID>29</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Denmark</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/30">
+    <socrata:rowID>30</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Denmark</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund>
+    <ds:amount>71400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/31">
+    <socrata:rowID>31</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Denmark</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>255100000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/32">
+    <socrata:rowID>32</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Denmark</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/33">
+    <socrata:rowID>33</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Denmark</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>204200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/34">
+    <socrata:rowID>34</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Denmark</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>22700000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/35">
+    <socrata:rowID>35</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Denmark</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/36">
+    <socrata:rowID>36</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Denmark</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>553400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/37">
+    <socrata:rowID>37</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Germany</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/38">
+    <socrata:rowID>38</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Germany</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/39">
+    <socrata:rowID>39</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Germany</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund>
+    <ds:amount>9771500000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/40">
+    <socrata:rowID>40</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Germany</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>8498000000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/41">
+    <socrata:rowID>41</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Germany</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/42">
+    <socrata:rowID>42</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Germany</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>626700000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/43">
+    <socrata:rowID>43</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Germany</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>338700000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/44">
+    <socrata:rowID>44</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Germany</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/45">
+    <socrata:rowID>45</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Germany</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>19234900000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/46">
+    <socrata:rowID>46</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Estonia</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>1073300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/47">
+    <socrata:rowID>47</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Estonia</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund>
+    <ds:amount>2461200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/48">
+    <socrata:rowID>48</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Estonia</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/49">
+    <socrata:rowID>49</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Estonia</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/50">
+    <socrata:rowID>50</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Estonia</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/51">
+    <socrata:rowID>51</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Estonia</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>49900000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/52">
+    <socrata:rowID>52</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Estonia</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>5500000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/53">
+    <socrata:rowID>53</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Estonia</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/54">
+    <socrata:rowID>54</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Estonia</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>3590000000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/55">
+    <socrata:rowID>55</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Ireland</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/56">
+    <socrata:rowID>56</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Ireland</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/57">
+    <socrata:rowID>57</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Ireland</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/58">
+    <socrata:rowID>58</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Ireland</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>951600000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/59">
+    <socrata:rowID>59</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Ireland</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/60">
+    <socrata:rowID>60</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Ireland</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>150500000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/61">
+    <socrata:rowID>61</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Ireland</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>18300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/62">
+    <socrata:rowID>62</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Ireland</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund>
+    <ds:amount>68100000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/63">
+    <socrata:rowID>63</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Ireland</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>1188600000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/64">
+    <socrata:rowID>64</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Greece</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>3250200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/65">
+    <socrata:rowID>65</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Greece</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund>
+    <ds:amount>7034200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/66">
+    <socrata:rowID>66</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Greece</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund>
+    <ds:amount>2306100000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/67">
+    <socrata:rowID>67</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Greece</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>2528200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/68">
+    <socrata:rowID>68</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Greece</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/69">
+    <socrata:rowID>69</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Greece</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>185300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/70">
+    <socrata:rowID>70</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Greece</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>46400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/71">
+    <socrata:rowID>71</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Greece</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund>
+    <ds:amount>171500000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/72">
+    <socrata:rowID>72</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Greece</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>15521900000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/73">
+    <socrata:rowID>73</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Spain</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/74">
+    <socrata:rowID>74</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Spain</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund>
+    <ds:amount>2040400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/75">
+    <socrata:rowID>75</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Spain</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund>
+    <ds:amount>13399500000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/76">
+    <socrata:rowID>76</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Spain</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>11074400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/77">
+    <socrata:rowID>77</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Spain</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund>
+    <ds:amount>484100000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/78">
+    <socrata:rowID>78</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Spain</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>430000000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/79">
+    <socrata:rowID>79</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Spain</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>187600000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/80">
+    <socrata:rowID>80</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Spain</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund>
+    <ds:amount>943500000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/81">
+    <socrata:rowID>81</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Spain</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>28559500000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/82">
+    <socrata:rowID>82</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>France</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/83">
+    <socrata:rowID>83</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>France</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund>
+    <ds:amount>3407800000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/84">
+    <socrata:rowID>84</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>France</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund>
+    <ds:amount>4253300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/85">
+    <socrata:rowID>85</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>France</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>6348500000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/86">
+    <socrata:rowID>86</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>France</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund>
+    <ds:amount>443300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/87">
+    <socrata:rowID>87</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>France</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>824700000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/88">
+    <socrata:rowID>88</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>France</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>264600000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/89">
+    <socrata:rowID>89</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>France</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund>
+    <ds:amount>310200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/90">
+    <socrata:rowID>90</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>France</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>15852500000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/91">
+    <socrata:rowID>91</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Croatia</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>2559500000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/92">
+    <socrata:rowID>92</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Croatia</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund>
+    <ds:amount>5837500000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/93">
+    <socrata:rowID>93</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Croatia</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/94">
+    <socrata:rowID>94</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Croatia</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/95">
+    <socrata:rowID>95</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Croatia</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/96">
+    <socrata:rowID>96</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Croatia</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>127800000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/97">
+    <socrata:rowID>97</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Croatia</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>18300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/98">
+    <socrata:rowID>98</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Croatia</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund>
+    <ds:amount>66200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/99">
+    <socrata:rowID>99</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Croatia</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>8609400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/100">
+    <socrata:rowID>100</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Italy</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/101">
+    <socrata:rowID>101</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Italy</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund>
+    <ds:amount>22324600000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/102">
+    <socrata:rowID>102</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Italy</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund>
+    <ds:amount>1102000000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/103">
+    <socrata:rowID>103</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Italy</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>7692200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/104">
+    <socrata:rowID>104</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Italy</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/105">
+    <socrata:rowID>105</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Italy</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>890000000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/106">
+    <socrata:rowID>106</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Italy</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>246700000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/107">
+    <socrata:rowID>107</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Italy</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund>
+    <ds:amount>567500000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/108">
+    <socrata:rowID>108</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Italy</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>32823000000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/109">
+    <socrata:rowID>109</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Cyprus</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>269500000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/110">
+    <socrata:rowID>110</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Cyprus</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/111">
+    <socrata:rowID>111</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Cyprus</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/112">
+    <socrata:rowID>112</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Cyprus</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>421800000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/113">
+    <socrata:rowID>113</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Cyprus</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/114">
+    <socrata:rowID>114</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Cyprus</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>29500000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/115">
+    <socrata:rowID>115</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Cyprus</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>3300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/116">
+    <socrata:rowID>116</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Cyprus</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund>
+    <ds:amount>11600000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/117">
+    <socrata:rowID>117</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Cyprus</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>735600000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/118">
+    <socrata:rowID>118</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Latvia</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>1349400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/119">
+    <socrata:rowID>119</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Latvia</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund>
+    <ds:amount>3039800000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/120">
+    <socrata:rowID>120</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Latvia</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/121">
+    <socrata:rowID>121</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Latvia</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/122">
+    <socrata:rowID>122</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Latvia</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/123">
+    <socrata:rowID>123</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Latvia</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>84300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/124">
+    <socrata:rowID>124</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Latvia</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>9300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/125">
+    <socrata:rowID>125</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Latvia</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund>
+    <ds:amount>29000000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/126">
+    <socrata:rowID>126</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Latvia</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>4511800000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/127">
+    <socrata:rowID>127</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Lithuania</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>2048900000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/128">
+    <socrata:rowID>128</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Lithuania</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund>
+    <ds:amount>4628700000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/129">
+    <socrata:rowID>129</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Lithuania</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/130">
+    <socrata:rowID>130</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Lithuania</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/131">
+    <socrata:rowID>131</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Lithuania</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/132">
+    <socrata:rowID>132</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Lithuania</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>99900000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/133">
+    <socrata:rowID>133</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Lithuania</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>13900000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/134">
+    <socrata:rowID>134</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Lithuania</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund>
+    <ds:amount>31800000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/135">
+    <socrata:rowID>135</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Lithuania</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>6823100000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/136">
+    <socrata:rowID>136</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Luxembourg</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/137">
+    <socrata:rowID>137</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Luxembourg</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/138">
+    <socrata:rowID>138</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Luxembourg</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/139">
+    <socrata:rowID>139</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Luxembourg</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>39600000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/140">
+    <socrata:rowID>140</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Luxembourg</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/141">
+    <socrata:rowID>141</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Luxembourg</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>18200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/142">
+    <socrata:rowID>142</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Luxembourg</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>2000000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/143">
+    <socrata:rowID>143</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Luxembourg</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/144">
+    <socrata:rowID>144</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Luxembourg</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>59700000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/145">
+    <socrata:rowID>145</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Hungary</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>6025400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/146">
+    <socrata:rowID>146</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Hungary</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund>
+    <ds:amount>15005200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/147">
+    <socrata:rowID>147</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Hungary</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/148">
+    <socrata:rowID>148</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Hungary</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>463700000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/149">
+    <socrata:rowID>149</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Hungary</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/150">
+    <socrata:rowID>150</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Hungary</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>320400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/151">
+    <socrata:rowID>151</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Hungary</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>41400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/152">
+    <socrata:rowID>152</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Hungary</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund>
+    <ds:amount>49800000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/153">
+    <socrata:rowID>153</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Hungary</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>21905900000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/154">
+    <socrata:rowID>154</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Malta</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>217700000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/155">
+    <socrata:rowID>155</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Malta</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/156">
+    <socrata:rowID>156</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Malta</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund>
+    <ds:amount>490200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/157">
+    <socrata:rowID>157</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Malta</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/158">
+    <socrata:rowID>158</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Malta</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/159">
+    <socrata:rowID>159</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Malta</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>15300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/160">
+    <socrata:rowID>160</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Malta</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>1700000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/161">
+    <socrata:rowID>161</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Malta</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/162">
+    <socrata:rowID>162</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Malta</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>725000000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/163">
+    <socrata:rowID>163</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Netherlands</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/164">
+    <socrata:rowID>164</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Netherlands</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/165">
+    <socrata:rowID>165</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Netherlands</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/166">
+    <socrata:rowID>166</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Netherlands</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>1014600000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/167">
+    <socrata:rowID>167</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Netherlands</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/168">
+    <socrata:rowID>168</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Netherlands</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>321800000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/169">
+    <socrata:rowID>169</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Netherlands</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>67900000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/170">
+    <socrata:rowID>170</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Netherlands</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/171">
+    <socrata:rowID>171</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Netherlands</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>1404300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/172">
+    <socrata:rowID>172</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Austria</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/173">
+    <socrata:rowID>173</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Austria</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/174">
+    <socrata:rowID>174</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Austria</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund>
+    <ds:amount>72300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/175">
+    <socrata:rowID>175</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Austria</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>906000000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/176">
+    <socrata:rowID>176</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Austria</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/177">
+    <socrata:rowID>177</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Austria</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>222900000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/178">
+    <socrata:rowID>178</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Austria</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>34400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/179">
+    <socrata:rowID>179</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Austria</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/180">
+    <socrata:rowID>180</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Austria</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>1235600000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/181">
+    <socrata:rowID>181</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Poland</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>23208000000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/182">
+    <socrata:rowID>182</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Poland</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund>
+    <ds:amount>51163600000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/183">
+    <socrata:rowID>183</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Poland</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/184">
+    <socrata:rowID>184</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Poland</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>2242400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/185">
+    <socrata:rowID>185</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Poland</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/186">
+    <socrata:rowID>186</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Poland</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>543200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/187">
+    <socrata:rowID>187</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Poland</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>157300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/188">
+    <socrata:rowID>188</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Poland</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund>
+    <ds:amount>252400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/189">
+    <socrata:rowID>189</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Poland</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>77567000000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/190">
+    <socrata:rowID>190</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Portugal</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>2861700000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/191">
+    <socrata:rowID>191</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Portugal</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund>
+    <ds:amount>16671200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/192">
+    <socrata:rowID>192</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Portugal</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund>
+    <ds:amount>257600000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/193">
+    <socrata:rowID>193</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Portugal</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>1275500000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/194">
+    <socrata:rowID>194</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Portugal</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund>
+    <ds:amount>115700000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/195">
+    <socrata:rowID>195</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Portugal</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>78600000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/196">
+    <socrata:rowID>196</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Portugal</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>43800000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/197">
+    <socrata:rowID>197</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Portugal</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund>
+    <ds:amount>160800000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/198">
+    <socrata:rowID>198</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Portugal</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>21465000000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/199">
+    <socrata:rowID>199</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Romania</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>6935000000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/200">
+    <socrata:rowID>200</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Romania</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund>
+    <ds:amount>15058800000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/201">
+    <socrata:rowID>201</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Romania</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/202">
+    <socrata:rowID>202</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Romania</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>441300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/203">
+    <socrata:rowID>203</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Romania</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/204">
+    <socrata:rowID>204</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Romania</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>364000000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/205">
+    <socrata:rowID>205</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Romania</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>88700000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/206">
+    <socrata:rowID>206</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Romania</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund>
+    <ds:amount>106000000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/207">
+    <socrata:rowID>207</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Romania</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>22993800000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/208">
+    <socrata:rowID>208</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Slovenia</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>895400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/209">
+    <socrata:rowID>209</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Slovenia</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund>
+    <ds:amount>1260000000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/210">
+    <socrata:rowID>210</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Slovenia</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/211">
+    <socrata:rowID>211</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Slovenia</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>847300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/212">
+    <socrata:rowID>212</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Slovenia</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/213">
+    <socrata:rowID>213</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Slovenia</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>54500000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/214">
+    <socrata:rowID>214</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Slovenia</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>8400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/215">
+    <socrata:rowID>215</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Slovenia</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund>
+    <ds:amount>9200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/216">
+    <socrata:rowID>216</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Slovenia</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>3074800000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/217">
+    <socrata:rowID>217</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Slovakia</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>4168300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/218">
+    <socrata:rowID>218</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Slovakia</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund>
+    <ds:amount>9483700000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/219">
+    <socrata:rowID>219</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Slovakia</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/220">
+    <socrata:rowID>220</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Slovakia</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>44200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/221">
+    <socrata:rowID>221</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Slovakia</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/222">
+    <socrata:rowID>222</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Slovakia</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>201100000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/223">
+    <socrata:rowID>223</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Slovakia</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>22300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/224">
+    <socrata:rowID>224</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Slovakia</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund>
+    <ds:amount>72200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/225">
+    <socrata:rowID>225</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Slovakia</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>13991700000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/226">
+    <socrata:rowID>226</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Finland</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/227">
+    <socrata:rowID>227</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Finland</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/228">
+    <socrata:rowID>228</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Finland</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/229">
+    <socrata:rowID>229</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Finland</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>999100000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/230">
+    <socrata:rowID>230</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Finland</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund>
+    <ds:amount>305300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/231">
+    <socrata:rowID>231</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Finland</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>139400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/232">
+    <socrata:rowID>232</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Finland</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>21900000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/233">
+    <socrata:rowID>233</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Finland</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/234">
+    <socrata:rowID>234</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Finland</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>1465800000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/235">
+    <socrata:rowID>235</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Sweden</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/236">
+    <socrata:rowID>236</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Sweden</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/237">
+    <socrata:rowID>237</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Sweden</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/238">
+    <socrata:rowID>238</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Sweden</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>1512400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/239">
+    <socrata:rowID>239</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Sweden</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund>
+    <ds:amount>206900000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/240">
+    <socrata:rowID>240</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Sweden</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>304200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/241">
+    <socrata:rowID>241</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Sweden</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>38100000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/242">
+    <socrata:rowID>242</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Sweden</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund>
+    <ds:amount>44200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/243">
+    <socrata:rowID>243</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Sweden</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>2105800000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/244">
+    <socrata:rowID>244</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>United Kingdom</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/245">
+    <socrata:rowID>245</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>United Kingdom</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund>
+    <ds:amount>2383200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/246">
+    <socrata:rowID>246</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>United Kingdom</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund>
+    <ds:amount>2617400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/247">
+    <socrata:rowID>247</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>United Kingdom</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>5767600000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/248">
+    <socrata:rowID>248</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>United Kingdom</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/249">
+    <socrata:rowID>249</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>United Kingdom</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>612300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/250">
+    <socrata:rowID>250</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>United Kingdom</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>253300000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/251">
+    <socrata:rowID>251</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>United Kingdom</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund>
+    <ds:amount>206100000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/252">
+    <socrata:rowID>252</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>United Kingdom</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>11839900000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/253">
+    <socrata:rowID>253</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Interregional cooperation</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/254">
+    <socrata:rowID>254</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Interregional cooperation</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/255">
+    <socrata:rowID>255</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Interregional cooperation</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/256">
+    <socrata:rowID>256</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Interregional cooperation</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/257">
+    <socrata:rowID>257</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Interregional cooperation</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/258">
+    <socrata:rowID>258</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Interregional cooperation</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/259">
+    <socrata:rowID>259</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Interregional cooperation</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/260">
+    <socrata:rowID>260</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Interregional cooperation</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/261">
+    <socrata:rowID>261</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Interregional cooperation</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>571600000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/262">
+    <socrata:rowID>262</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Urban innovative actions</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/263">
+    <socrata:rowID>263</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Urban innovative actions</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/264">
+    <socrata:rowID>264</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Urban innovative actions</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/265">
+    <socrata:rowID>265</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Urban innovative actions</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/266">
+    <socrata:rowID>266</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Urban innovative actions</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/267">
+    <socrata:rowID>267</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Urban innovative actions</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/268">
+    <socrata:rowID>268</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Urban innovative actions</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/269">
+    <socrata:rowID>269</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Urban innovative actions</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/270">
+    <socrata:rowID>270</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Urban innovative actions</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>371900000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/271">
+    <socrata:rowID>271</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Technical assistance</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/272">
+    <socrata:rowID>272</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Technical assistance</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/273">
+    <socrata:rowID>273</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Technical assistance</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/274">
+    <socrata:rowID>274</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Technical assistance</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/275">
+    <socrata:rowID>275</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Technical assistance</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/276">
+    <socrata:rowID>276</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Technical assistance</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/277">
+    <socrata:rowID>277</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Technical assistance</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/278">
+    <socrata:rowID>278</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Technical assistance</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/279">
+    <socrata:rowID>279</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>Technical assistance</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>1217600000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/280">
+    <socrata:rowID>280</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>EU28</ds:member_state>
+    <ds:fund>Cohesion Fund</ds:fund>
+    <ds:amount>63399700000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/281">
+    <socrata:rowID>281</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>EU28</ds:member_state>
+    <ds:fund>Less Developed Regions</ds:fund>
+    <ds:amount>182171800000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/282">
+    <socrata:rowID>282</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>EU28</ds:member_state>
+    <ds:fund>Transition Regions</ds:fund>
+    <ds:amount>35381100000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/283">
+    <socrata:rowID>283</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>EU28</ds:member_state>
+    <ds:fund>More Developed Regions</ds:fund>
+    <ds:amount>54350500000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/284">
+    <socrata:rowID>284</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>EU28</ds:member_state>
+    <ds:fund>Outermost and northern sparsely populated regions</ds:fund>
+    <ds:amount>1555400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/285">
+    <socrata:rowID>285</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>EU28</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Cross-Border Cooperation</ds:fund>
+    <ds:amount>7548400000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/286">
+    <socrata:rowID>286</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>EU28</ds:member_state>
+    <ds:fund>European Territorial Cooperation: Transnational Cooperation</ds:fund>
+    <ds:amount>2075000000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/287">
+    <socrata:rowID>287</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>EU28</ds:member_state>
+    <ds:fund>Youth Employment Initiative (additional allocation)</ds:fund>
+    <ds:amount>3211200000</ds:amount></dsbase:chwi-nky5>
+<dsbase:chwi-nky5 rdf:about="http://cohesiondata.ec.europa.eu/resource/chwi-nky5/288">
+    <socrata:rowID>288</socrata:rowID>
+    <rdfs:member rdf:resource="http://cohesiondata.ec.europa.eu/resource/chwi-nky5"/>
+    <ds:member_state>EU28</ds:member_state>
+    <ds:fund>Total</ds:fund>
+    <ds:amount>352000000000</ds:amount></dsbase:chwi-nky5></rdf:RDF>
